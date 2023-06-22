@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omvat url van bestuursorgaan waarop documentcollectie beschikbaar is"
+    id="id-c5dfa5c01e2344dea4452f458c2e6a43">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d70481b7520e42938d1891098774157d.xml#id-d70481b7520e42938d1891098774157d"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-092a912d98ab4c498a4bb1207c121f7d.xml#id-092a912d98ab4c498a4bb1207c121f7d"/>
+</archimate:AssociationRelationship>

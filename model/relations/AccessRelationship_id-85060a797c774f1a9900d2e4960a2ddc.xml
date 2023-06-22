@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt gelezen door"
+    id="id-85060a797c774f1a9900d2e4960a2ddc"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-f44ca47e24494e4a8dc1eeea9995f0e3.xml#id-f44ca47e24494e4a8dc1eeea9995f0e3"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d70481b7520e42938d1891098774157d.xml#id-d70481b7520e42938d1891098774157d"/>
+</archimate:AccessRelationship>

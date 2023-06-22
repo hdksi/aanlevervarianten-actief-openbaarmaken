@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="haalt document op middels"
+    id="id-791b470f062c45abb1823c8d7a9e253d">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-d566144bce1c4e72b0d9cb9b2e2be1d0.xml#id-d566144bce1c4e72b0d9cb9b2e2be1d0"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-ab8124e346ed49bda252c6df6830ce13.xml#id-ab8124e346ed49bda252c6df6830ce13"/>
+</archimate:ServingRelationship>

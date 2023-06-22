@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="te bevragen middels"
+    id="id-c190bdee8adf4fe8a2957ff86083ca31"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-ab8124e346ed49bda252c6df6830ce13.xml#id-ab8124e346ed49bda252c6df6830ce13"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-77cbc7ab163c48299c9caf9430cd5c73.xml#id-77cbc7ab163c48299c9caf9430cd5c73"/>
+</archimate:AccessRelationship>

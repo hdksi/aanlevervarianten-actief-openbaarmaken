@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ontsloten via"
+    id="id-6d3f2378f3804e6c8a70f80bb2c6adef"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-da0b0ef1db3249269eba196dbe0a2cf3.xml#id-da0b0ef1db3249269eba196dbe0a2cf3"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d70481b7520e42938d1891098774157d.xml#id-d70481b7520e42938d1891098774157d"/>
+</archimate:AccessRelationship>
