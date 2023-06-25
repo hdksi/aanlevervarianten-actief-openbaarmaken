@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="locaties Woo-documenten Bestuursorganen"
+    id="id-0715e60b32ff4a23acb12a335e86d278">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-7da61063b286418ca85eef44869c0b94.xml#id-7da61063b286418ca85eef44869c0b94"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-92e93386d1014f658ee9f23867781e79.xml#id-92e93386d1014f658ee9f23867781e79"/>
+</archimate:AccessRelationship>

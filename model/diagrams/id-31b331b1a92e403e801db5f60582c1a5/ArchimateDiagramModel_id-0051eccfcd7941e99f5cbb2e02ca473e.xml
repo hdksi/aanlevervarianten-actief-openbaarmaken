@@ -26,8 +26,8 @@
           href="ServingRelationship_id-cc7925ed42cf4f528907f12582a6627b.xml#id-cc7925ed42cf4f528907f12582a6627b"/>
     </sourceConnections>
     <bounds
-        x="616"
-        y="720"
+        x="208"
+        y="492"
         width="897"
         height="385"/>
     <children
@@ -269,8 +269,8 @@
       targetConnections="id-73512b9234514fc5b95deb81e6decdf0 id-edb951207ca7490c8a2cb43271c065f2"
       textPosition="1">
     <bounds
-        x="456"
-        y="240"
+        x="48"
+        y="12"
         width="129"
         height="865"/>
     <archimateElement
@@ -281,8 +281,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e3c3c7f3f232404b89a130626f3d8a4c">
     <bounds
-        x="616"
-        y="240"
+        x="208"
+        y="12"
         width="897"
         height="449"/>
     <children

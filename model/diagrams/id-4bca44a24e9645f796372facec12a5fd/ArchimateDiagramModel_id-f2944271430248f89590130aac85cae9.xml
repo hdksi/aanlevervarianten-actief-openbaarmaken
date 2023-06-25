@@ -1,8 +1,32 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="Bedrijfsproces: openbaar maken open overheidsinformatie"
     id="id-f2944271430248f89590130aac85cae9">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5d56700bfea64d77b9b61dcb2adf2f01">
+    <bounds
+        x="684"
+        y="228"
+        width="709"
+        height="192"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-8b1a19bf1f764ffb864538b8cac2e8fe.xml#id-8b1a19bf1f764ffb864538b8cac2e8fe"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-544fdb0c15d642e4a4c11bc64fd4e8ca">
+    <bounds
+        x="1404"
+        y="228"
+        width="228"
+        height="192"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-7063048aff9c41d1b991843f515e1e1f.xml#id-7063048aff9c41d1b991843f515e1e1f"/>
+  </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5b66bbc3eec44d16b50f383bb27a2d72"
@@ -19,36 +43,6 @@
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-e98d25e1c70d40ceaa88ea5c6a1ad3ca.xml#id-e98d25e1c70d40ceaa88ea5c6a1ad3ca"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5212e50539404510921cb1c78091cf42">
-    <features
-        name="labelExpression"
-        value="${name}&#xD;&#xA;[${type}]"/>
-    <bounds
-        x="1406"
-        y="228"
-        width="228"
-        height="192"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-6fb9b1d1d4694b7dbd4325e07c6f8b0b.xml#id-6fb9b1d1d4694b7dbd4325e07c6f8b0b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a195f09bccc04ef8a4059a92e68ae3c7">
-    <features
-        name="labelExpression"
-        value="${name}&#xD;&#xA;[${type}]"/>
-    <bounds
-        x="686"
-        y="228"
-        width="709"
-        height="192"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-7807e3bed8564c8d9f73f900893783b5.xml#id-7807e3bed8564c8d9f73f900893783b5"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

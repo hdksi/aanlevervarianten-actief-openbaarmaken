@@ -1,5 +1,5 @@
-<archimate:DataObject
+<archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="sitemaps.xml (beschrijft metadata bij dataset of document)"
-    id="id-4fb7a575dc874b2e9adc52dfc9247459"
+    name="[webserver Bestuursorgaan] sitemap.xml"
+    id="id-51aa176b65334e858037f44cbfcbfcea"
     documentation="Een sitemap, soms siteplan, is een pagina of document waarin links naar alle pagina's van een website staan, die meestal op onderwerp dan wel relevantie zijn gesorteerd. Dit is een handig hulpmiddel voor bezoekers en zoekmachines om bepaalde pagina's te vinden op een site."/>

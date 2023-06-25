@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="robots.txt (beschrijft vindplaats van dataset of document)"
-    id="id-743f6bd2dfd94165a0bba03f28290f61"/>
+    id="id-743f6bd2dfd94165a0bba03f28290f61"
+    documentation="Het Robots Exclusion Protocol, robots exclusion standard of robots.txt protocol is een conventie om een normaal toegankelijke website af te schermen voor bepaalde webspiders en zoekrobots. "/>

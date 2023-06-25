@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bestuursorgaan"
-    id="id-8b1a19bf1f764ffb864538b8cac2e8fe"/>
+    id="id-8b1a19bf1f764ffb864538b8cac2e8fe"
+    documentation="Instantie die de bevoegdheid heeft om beslissingen namens de overheid te nemen."/>

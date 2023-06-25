@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="schrijft naar"
+    id="id-22c5c0f002c24e0493a05a2ff44663b2">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_id-6f7647c3bccb45828db7ce97ca5ff61f.xml#id-6f7647c3bccb45828db7ce97ca5ff61f"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-51aa176b65334e858037f44cbfcbfcea.xml#id-51aa176b65334e858037f44cbfcbfcea"/>
+</archimate:AccessRelationship>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Extractor"
-    id="id-114d6715aa42481788537919a9dcb73f"/>
+    id="id-114d6715aa42481788537919a9dcb73f"
+    documentation="Een extractor is een programma dat gegevens uit een bestand of database haalt en deze in een ander formaat opslaat. Extractors worden vaak gebruikt om gegevens te verzamelen voor rapporten of om gegevens te migreren van het ene systeem naar het andere."/>

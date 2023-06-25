@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[PLOOI-harvester] ophalen sitemaps_index.xml"
+    id="id-0a6d1ac4dd474e23a30157abdce6357f"
+    documentation="1.&#x9;An HTTPS call is made to retrieve the content of the robots.txt file hosted by the ECLI provider Web server;"/>
