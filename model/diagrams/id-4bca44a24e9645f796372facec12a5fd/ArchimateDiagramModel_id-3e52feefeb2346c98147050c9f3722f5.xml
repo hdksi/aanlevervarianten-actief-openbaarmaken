@@ -271,4 +271,7 @@
         xsi:type="archimate:DataObject"
         href="DataObject_id-74502db802854cb3ad368804dcc93107.xml#id-74502db802854cb3ad368804dcc93107"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="Wiki"/>
 </archimate:ArchimateDiagramModel>

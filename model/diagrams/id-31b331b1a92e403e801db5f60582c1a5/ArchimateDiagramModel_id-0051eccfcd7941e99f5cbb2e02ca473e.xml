@@ -661,4 +661,7 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-7063048aff9c41d1b991843f515e1e1f.xml#id-7063048aff9c41d1b991843f515e1e1f"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="Wiki"/>
 </archimate:ArchimateDiagramModel>

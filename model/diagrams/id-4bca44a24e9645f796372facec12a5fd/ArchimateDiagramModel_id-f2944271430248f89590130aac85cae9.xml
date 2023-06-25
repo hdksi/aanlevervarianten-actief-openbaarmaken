@@ -228,4 +228,7 @@
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-02776323d484477aaecc653f64f54f1c.xml#id-02776323d484477aaecc653f64f54f1c"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="Wiki"/>
 </archimate:ArchimateDiagramModel>
