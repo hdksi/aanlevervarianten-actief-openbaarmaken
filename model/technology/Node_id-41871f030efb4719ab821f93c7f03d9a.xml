@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="webserver Bestuursorgaan"
-    id="id-41871f030efb4719ab821f93c7f03d9a"/>
+    id="id-41871f030efb4719ab821f93c7f03d9a"
+    documentation="Een webserver is een computerprogramma dat HTTP-verzoeken ontvangt en HTTP-reacties terugstuurt naar de client. Een webserver wordt gebruikt om webpagina’s te hosten en te leveren aan de client die de pagina opvraagt. Een webserver kan ook worden gebruikt om andere bestanden te leveren, zoals afbeeldingen en video’s."/>

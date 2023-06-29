@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Weblocatie Woo-document"
-    id="id-ec562124305f498ca6f87412d714d469"/>
+    id="id-ec562124305f498ca6f87412d714d469"
+    documentation="Adres op internet van een Woo-document."/>

@@ -5,7 +5,8 @@
     id="id-f2944271430248f89590130aac85cae9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5d56700bfea64d77b9b61dcb2adf2f01">
+      id="id-5d56700bfea64d77b9b61dcb2adf2f01"
+      fillColor="#ffffe9">
     <bounds
         x="684"
         y="228"
@@ -17,7 +18,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-544fdb0c15d642e4a4c11bc64fd4e8ca">
+      id="id-544fdb0c15d642e4a4c11bc64fd4e8ca"
+      fillColor="#ffffe9">
     <bounds
         x="1404"
         y="228"

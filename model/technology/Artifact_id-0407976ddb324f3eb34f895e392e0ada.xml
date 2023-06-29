@@ -1,4 +1,5 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[webserver Bestuursorgaan] robots.txt"
-    id="id-0407976ddb324f3eb34f895e392e0ada"/>
+    id="id-0407976ddb324f3eb34f895e392e0ada"
+    documentation="Het Robots Exclusion Protocol, robots exclusion standard of robots.txt protocol is een conventie om een normaal toegankelijke website af te schermen voor bepaalde webspiders en zoekrobots. "/>

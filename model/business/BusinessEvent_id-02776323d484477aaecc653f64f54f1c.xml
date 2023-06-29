@@ -1,4 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Document afgesloten"
-    id="id-02776323d484477aaecc653f64f54f1c"/>
+    id="id-02776323d484477aaecc653f64f54f1c"
+    documentation="Een bestuursorgaan is klaar met het werken aan document dat informatie bevat dat als open overheidsinformatie dient te worden gepubliceerd. Ook Woo-verzoeken, en informatie die hiervoor verzamelt wordt vallen hier onder."/>

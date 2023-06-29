@@ -1,4 +1,9 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[webserver Bestuursorgaan] sitemap_index.xml"
-    id="id-d1035d497ec942c6825669f87213b07e"/>
+    id="id-d1035d497ec942c6825669f87213b07e"
+    documentation="Een sitemap_index.xml bestand is een XML-bestand dat verwijst naar andere sitemapbestanden. Het wordt gebruikt om zoekmachines te helpen bij het vinden van alle sitemapbestanden op een website. Een sitemap_index.xml bestand is niet verplicht, maar kan nuttig zijn voor websites met veel pagina’s of complexe structuur.">
+  <properties
+      key="Bron"
+      value="https://optimusonline.nl/xml-sitemap-seo/"/>
+</archimate:Artifact>

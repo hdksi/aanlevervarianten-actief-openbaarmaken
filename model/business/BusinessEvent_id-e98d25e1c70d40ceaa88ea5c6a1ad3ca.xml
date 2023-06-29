@@ -1,4 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Open overheidsinformatie openbaar gemaakt"
-    id="id-e98d25e1c70d40ceaa88ea5c6a1ad3ca"/>
+    id="id-e98d25e1c70d40ceaa88ea5c6a1ad3ca"
+    documentation="Woo-documenten zijn vindbaar gemaakt voor de buitenwereld."/>

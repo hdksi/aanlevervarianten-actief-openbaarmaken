@@ -5,7 +5,8 @@
     id="id-cf20b8334c5d400aab5a8be485b719d5">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-efd203f19f7146bea1522e21191ec212">
+      id="id-efd203f19f7146bea1522e21191ec212"
+      fillColor="#ffffe9">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-905eee6c23774c69b7c5fb498765d0b9"
@@ -137,6 +138,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-88b378b1bf0f453ca17d1f642007a20c"
           targetConnections="id-a7724cca1be74a3aa528f61fc78d8aac id-3907689f926848f68bcadc4b51d9f91f id-44d97a98344b47e7a292bd627705131b id-6f085d6f9fe04f05b70523f4cb29df3c id-bb200a22d3f24c6685804ce1f300b4a9"
+          fillColor="#7aafda"
           textPosition="1"
           type="1">
         <bounds
@@ -276,6 +278,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d6e0bac5618b4a19b0b5f489171df5fc"
       targetConnections="id-5cc3a13642f14bf684fa59ccdf9c5e3c id-c34857209f814b56a03b931089cecbba"
+      fillColor="#ffffe9"
       textPosition="1">
     <bounds
         x="456"
@@ -288,7 +291,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-860e6e99de0a4fbc93671b62bbf73f73">
+      id="id-860e6e99de0a4fbc93671b62bbf73f73"
+      fillColor="#ffffe9">
     <bounds
         x="616"
         y="240"
@@ -429,6 +433,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c65dd097935b4580b5a74169d5219fc0"
           targetConnections="id-534b3c2552a6465195bb1dafa4835b27 id-32b3cd8ec82a476ba341905aaece7b48 id-ec1766fb075848f3a93f391796aa6803 id-70b83be1c82f4cfd9f0690df62cca563"
+          fillColor="#7aafda"
           textPosition="1"
           type="1">
         <sourceConnections
@@ -548,6 +553,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-56a38dc70b5149e3bd12c3f97a8e0beb"
           targetConnections="id-0c765e6d7f1b4ebc8fee85d028b5a701 id-610f8b0b933b4ba3bd393c43712c5cab id-cc9c98398e8c4942809521c162f35023 id-6de91b8015354c468b139cd9f573c16c id-3748721b1aaf464ba0da9f9ed7c8906f"
+          fillColor="#7aafda"
           textPosition="1"
           type="1">
         <sourceConnections

@@ -1,12 +1,10 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="locaties webservers Bestuursorganen"
-    id="id-82cc2c798ab04572bdfbc38714c642aa"
-    accessType="1">
+    id="id-2dd28e5146aa4cf0a1d133222e1019ad">
   <source
-      xsi:type="archimate:ApplicationProcess"
-      href="ApplicationProcess_id-77626082f03a48a297a8b97ce5b2e999.xml#id-77626082f03a48a297a8b97ce5b2e999"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-7063048aff9c41d1b991843f515e1e1f.xml#id-7063048aff9c41d1b991843f515e1e1f"/>
   <target
       xsi:type="archimate:DataObject"
       href="DataObject_id-d70481b7520e42938d1891098774157d.xml#id-d70481b7520e42938d1891098774157d"/>
